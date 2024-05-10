@@ -1,0 +1,9 @@
+pydantic
+peewee
+langchain
+sqlalchemy
+pgvector
+openai
+tiktoken
+python-telegram-bot
+langdetect
